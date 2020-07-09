@@ -28,6 +28,7 @@ function init() {
  
  function init() {
    document.body.addEventListener("keydown", (event) => {
+     const alphabet = ['a', 'b', 'c'];
      
    }
  }
