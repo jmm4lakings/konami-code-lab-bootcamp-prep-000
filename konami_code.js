@@ -20,4 +20,5 @@ let idx = 0
      idx = (codes[idx] === key) ? ++idx : 0
      
      if (idx === codes.length) {
+       window.alert("Hurray!");
        
