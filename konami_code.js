@@ -21,7 +21,7 @@ function init() {
   
    if (idx === codes.length) {
      window.alert("Hurray!");
-     idx = 0
+   let idx = 0
    }
   });
 }
